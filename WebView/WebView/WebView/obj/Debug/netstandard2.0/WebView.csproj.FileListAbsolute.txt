@@ -1,0 +1,8 @@
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\bin\Debug\netstandard2.0\WebView.deps.json
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\bin\Debug\netstandard2.0\WebView.dll
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\bin\Debug\netstandard2.0\WebView.pdb
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\obj\Debug\netstandard2.0\WebView.csproj.CoreCompileInputs.cache
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\obj\Debug\netstandard2.0\WebView.AssemblyInfoInputs.cache
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\obj\Debug\netstandard2.0\WebView.AssemblyInfo.cs
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\obj\Debug\netstandard2.0\WebView.dll
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView\obj\Debug\netstandard2.0\WebView.pdb

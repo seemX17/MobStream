@@ -1,0 +1,5 @@
+System.Runtime
+WebView
+Xamarin.Android.Support.Constraint.Layout
+Xamarin.Android.Support.Constraint.Layout.Solver
+netstandard

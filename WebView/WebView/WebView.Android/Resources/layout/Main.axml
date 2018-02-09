@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/webview" />
+    <TextView
+        android:id="@+id/chatBox"
+        android:layout_width="215.5dp"
+        android:layout_height="151.5dp"
+        android:text="Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit,            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim             veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons            equat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore e           u fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in cu              lpa qui officia deserunt mollit anim id est laborum.Lorem"
+        android:layout_marginBottom="48.5dp"
+        android:layout_marginRight="0.0dp"
+        android:clickable="true"
+        android:enabled="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="#fff" />
+    <ImageView
+        android:id="@+id/switchBtn"
+        android:layout_width="31.0dp"
+        android:layout_height="21.5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/expand"
+        android:scaleType="centerInside"
+        android:clickable="true"
+        android:onClick="SwitchBtn_Click" />
+
+</RelativeLayout>

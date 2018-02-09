@@ -1,0 +1,4 @@
+signalR.Droid.MainActivity, signalR.Android;md54210da3603975f47fda4a840a328ca7a.MainActivity
+signalR.Droid.MainActivity, signalR.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54210da3603975f47fda4a840a328ca7a.MainActivity
+signalR.Droid.MainActivity;md54210da3603975f47fda4a840a328ca7a.MainActivity
+signalr.droid.MainActivity;md54210da3603975f47fda4a840a328ca7a.MainActivity

@@ -1,0 +1,8 @@
+App1SignalR.GetInfo, App1SignalR;md59dad101e318b63f8532b593f4a5dbbec.GetInfo
+App1SignalR.GetInfo, App1SignalR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59dad101e318b63f8532b593f4a5dbbec.GetInfo
+App1SignalR.GetInfo;md59dad101e318b63f8532b593f4a5dbbec.GetInfo
+app1signalr.GetInfo;md59dad101e318b63f8532b593f4a5dbbec.GetInfo
+App1SignalR.MainActivity, App1SignalR;md59dad101e318b63f8532b593f4a5dbbec.MainActivity
+App1SignalR.MainActivity, App1SignalR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59dad101e318b63f8532b593f4a5dbbec.MainActivity
+App1SignalR.MainActivity;md59dad101e318b63f8532b593f4a5dbbec.MainActivity
+app1signalr.MainActivity;md59dad101e318b63f8532b593f4a5dbbec.MainActivity

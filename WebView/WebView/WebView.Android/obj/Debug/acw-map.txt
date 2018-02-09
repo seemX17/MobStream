@@ -1,0 +1,12 @@
+WebView.Droid.activity_stream_loading, WebView.Android;md5aa8810330c008799dcaa6de0a580e2f3.activity_stream_loading
+WebView.Droid.activity_stream_loading, WebView.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa8810330c008799dcaa6de0a580e2f3.activity_stream_loading
+WebView.Droid.activity_stream_loading;md5aa8810330c008799dcaa6de0a580e2f3.activity_stream_loading
+webview.droid.activity_stream_loading;md5aa8810330c008799dcaa6de0a580e2f3.activity_stream_loading
+WebView.Droid.MainActivity, WebView.Android;md5aa8810330c008799dcaa6de0a580e2f3.MainActivity
+WebView.Droid.MainActivity, WebView.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa8810330c008799dcaa6de0a580e2f3.MainActivity
+WebView.Droid.MainActivity;md5aa8810330c008799dcaa6de0a580e2f3.MainActivity
+webview.droid.MainActivity;md5aa8810330c008799dcaa6de0a580e2f3.MainActivity
+WebView.Droid.SplashScreen1, WebView.Android;md5aa8810330c008799dcaa6de0a580e2f3.SplashScreen1
+WebView.Droid.SplashScreen1, WebView.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa8810330c008799dcaa6de0a580e2f3.SplashScreen1
+WebView.Droid.SplashScreen1;md5aa8810330c008799dcaa6de0a580e2f3.SplashScreen1
+webview.droid.SplashScreen1;md5aa8810330c008799dcaa6de0a580e2f3.SplashScreen1

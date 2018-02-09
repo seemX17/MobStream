@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#006768"
+                android:centerColor="#006768"
+                android:endColor="#002c50"
+                android:type="radial"
+                android:gradientRadius="70%p"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#b4006768"
+                android:endColor="#b4002c50"
+                android:type="radial"
+                android:gradientRadius="50%p"/>
+        </shape>
+    </item>
+</layer-list>

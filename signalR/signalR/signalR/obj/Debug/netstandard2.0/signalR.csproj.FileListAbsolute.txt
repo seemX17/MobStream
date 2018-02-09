@@ -1,0 +1,15 @@
+F:\PROJECTS\XamarinProjects\signalR\signalR\signalR\bin\Debug\netstandard2.0\signalR.deps.json
+F:\PROJECTS\XamarinProjects\signalR\signalR\signalR\bin\Debug\netstandard2.0\signalR.dll
+F:\PROJECTS\XamarinProjects\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.csprojResolveAssemblyReference.cache
+F:\PROJECTS\XamarinProjects\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.csproj.CoreCompileInputs.cache
+F:\PROJECTS\XamarinProjects\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.AssemblyInfoInputs.cache
+F:\PROJECTS\XamarinProjects\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.AssemblyInfo.cs
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\bin\Debug\netstandard2.0\signalR.deps.json
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\bin\Debug\netstandard2.0\signalR.dll
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\bin\Debug\netstandard2.0\signalR.pdb
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.csprojResolveAssemblyReference.cache
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.csproj.CoreCompileInputs.cache
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.AssemblyInfoInputs.cache
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.AssemblyInfo.cs
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.dll
+F:\PROJECTS\XamarinProjects\WEBSTREAM  SAMPLE\signalR\signalR\signalR\obj\Debug\netstandard2.0\signalR.pdb

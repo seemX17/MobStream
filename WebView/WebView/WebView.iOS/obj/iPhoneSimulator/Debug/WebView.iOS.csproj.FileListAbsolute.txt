@@ -1,0 +1,12 @@
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\bin\iPhoneSimulator\Debug\WebView.iOS.exe
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\bin\iPhoneSimulator\Debug\WebView.iOS.pdb
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\bin\iPhoneSimulator\Debug\WebView.dll
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\bin\iPhoneSimulator\Debug\WebView.pdb
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\optimized\
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\WebView.iOS.csprojResolveAssemblyReference.cache
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\WebView.iOS.csproj.CoreCompileInputs.cache
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\WebView.iOS.exe
+F:\PROJECTS\XamarinProjects\WebView\WebView\WebView.iOS\obj\iPhoneSimulator\Debug\WebView.iOS.pdb
